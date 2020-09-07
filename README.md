@@ -16,9 +16,7 @@ In this assignment you will work through several examples and resources on the M
 
 Work through the [MDN Getting Started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) module.
 
-First, get your GitHub repository you will be using for the assignment here:
-
-[https://classroom.github.com/a/_ZfvGkjE](https://classroom.github.com/a/_ZfvGkjE)
+First, get your GitHub repository you will be using for the assignment by following the GitHub Classroom invitation link in the assignment on Canvas.
 
 Then work through the following sections, links, and steps:
 
@@ -119,7 +117,7 @@ Then work through the following sections, links, and steps:
 
 1. Ensure you commit and push your files to GitHub at each step you're instructed to above **in bold**. The steps are: HTML Basics, CSS Basics, JavaScript Basics, Publishing your website.
 
-1. Submit the URL of **your GitHub Classroom-generated repository** to [the associated assignment on Canvas](https://canvas.instructure.com/courses/1781732/assignments/13207299/). **Do not submit a link to a personal repository. It must be within our class GitHub organization.** 
+1. Submit the URL of **your GitHub Classroom-generated repository** to the associated assignment on Canvas. **Do not submit a link to a personal repository. It must be within our class GitHub organization.** 
 
 
 ## Grading:
