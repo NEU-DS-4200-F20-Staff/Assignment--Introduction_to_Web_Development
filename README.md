@@ -49,6 +49,8 @@ Then work through the following sections, links, and steps:
 
 1. [HTML Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/HTML_basics)
 
+   Note that you can just use their example text verbatim.
+
     **Commit and push your files to GitHub after this step.**
 
 1. [CSS Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics)
