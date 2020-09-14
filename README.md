@@ -49,6 +49,8 @@ Then work through the following sections, links, and steps:
 
 1. [HTML Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/HTML_basics)
 
+   Note that you can just use their example text verbatim.
+
     **Commit and push your files to GitHub after this step.**
     
     E.g., `git commit` followed by `git push`.
@@ -72,6 +74,8 @@ Then work through the following sections, links, and steps:
     * We will use [GitHub pages](https://pages.github.com/). Upon commit (and waiting around 1 min) the web page is served automatically.
     
         You would normally need to turn on GitHub pages in the settings for your repository but we have set that up for you so you're using the `gh-pages` branch by default.
+        
+        The general conversion is `https://github.com/[ORGANIZATION_OR_USER]/[REPO_NAME]` → `https://[ORGANIZATION_OR_USER].github.io/[REPO_NAME]`.
 
         You can use this JavaScript [bookmarklet](https://en.wikipedia.org/wiki/Bookmarklet) in your browser to swap between any GitHub repository and the associated GitHub Pages site. Create a new bookmark in your browser and copy and paste this code in the `location` field:
         ```js
