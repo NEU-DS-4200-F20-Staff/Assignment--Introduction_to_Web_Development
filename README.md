@@ -51,7 +51,7 @@ Then work through the following sections, links, and steps:
 
     **Commit and push your files to GitHub after this step.**
     
-    E.g., `git add *` then `git commit -m "My commit message"` followed by `git push -all origin`.
+    E.g., `git add *` then `git commit -m "My commit message"` followed by `git push --all origin`.
 
 1. [CSS Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics)
 
