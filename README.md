@@ -5,14 +5,14 @@ This repository is your starting point for the assignment and includes the instr
 Link to GitHub pages website: `[insert your hyperlink here]`
 
 
-## Aim of the Assignment:
+# Aim of the Assignment
 
 In this assignment you will work through several examples and resources on the Mozilla Developer Network (MDN) in order to learn the basics of web development and using HTML, CSS, JavaScript,  git, GitHub, and GitHub Pages. This will complement an in-class activity in Lecture 2 where we use these technologies.
 
 **_If you struggle a lot on this assignment or feel lost, seek additional web development training outside of class ASAP and come to office hours for help._** One goal of this assignment is to help you realize what you may need to learn. We will be doing some instruction in class but we expect that many of you will need to use tutorials and other outside resources to accomplish the upcoming assignments.
 
 
-## Instructions:
+# Instructions
 
 Work through the [MDN Getting Started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) module.
 
@@ -115,39 +115,33 @@ Then work through the following sections, links, and steps:
 1. Read [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript).
 
 
-## Submission instructions:
+# Submission instructions
 
 1. Ensure you commit and push your files to GitHub at each step you're instructed to above **in bold**. The steps are: HTML Basics, CSS Basics, JavaScript Basics, Publishing your website.
 
 1. Submit the URL of **your GitHub Classroom-generated repository** to the associated assignment on Canvas. **Do not submit a link to a personal repository. It must be within our class GitHub organization.** 
 
-
-## Grading:
-
-This is a satisfactory grading assignment. If you followed the instructions you receive full marks and if not you receive a 0. Your submission is satisfactory if:
-
-* Everything is submitted by the due date following the instructions.
-    * Any commits made after the due date will be ignored when your work is graded.
-    * **If you do not submit the correct link we will not grade your assignment and you will receive a 0**. This is standard course policy.
-* Any folders/files are properly named, located as specified, and contain what is expected.
-* Your web page link is correctly updated at the top of the README.md file.
-* You submit a link to the GitHub Classroom-generated repo, not a personal one.
-* Each of the required commits and pushes is done in order and not edited via the GitHub user interface online.
-* Your web page loads properly and looks roughly as expected in the latest Firefox and Chrome browsers on the teaching staff's computers.
-* Any code from other sources (modified or copied straight) is acknowledged.
-* Your submitted code isn't directly copied from Mozilla's repositories and demonstrates that you actually worked through the examples completely.
-
-
-## Further Reading for those interested:
+# Further Reading for those interested
 
 [MDN Learning HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
 [MDN Learn to Style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
+# Assignment Setup (For Instructors Only):
 
-## Template Repository Setup (For Instructors Only):
+## Create Repo
 
-### GitHub Pages
+1. Go to this year's staff GitHub organization.
+
+1. Create the new repository using a meaningful name, consistent with the other assignments for this class and with Canvas.
+
+1. Clone the repository locally.
+
+1. Copy in the files from last year and make any necessary updates, *including assignment links to Canvas.*
+
+1. Commit and push changes.
+
+## GitHub Pages
 
 It is necessary if using GitHub Classroom to set up GitHub pages for the students, as they do not have admin permissions on their repository. To do this, we need to create and move everything to the `gh-pages` branch and delete the `master` branch.
 
@@ -165,6 +159,28 @@ It is necessary if using GitHub Classroom to set up GitHub pages for the student
 
 1. `git push origin :master`
 
-### Template Repository
+## Template Repository
 
 1. On GitHub, go to `Settings` and check the box for `Template repository` at the top. This makes GitHub Classroom copies much faster.
+
+## GitHub Classroom
+
+1. Create the assignment on GitHub Classroom.
+
+1. Set the assignment title to be the same as on Canvas and consistent with the other assignments for this class.
+
+1. Change the pre-set repository prefix so that it includes two dashes (--) between the type of assignment and the name of it. E.g., `in-class-programming--javascript` and `assignment--altair-and-jupyterlab-setup`.
+
+1. Set the deadline (23:59 of the due day), make sure it matches the assignment on Canvas, and make sure it is Eastern time.
+
+1. Make the repository Public.
+
+1. Set the template repository (where this file is) as the starter code.
+
+1. Enable feedback pull requests.
+
+1. Update assignment.
+
+1. Enable the assignment invitation URL.
+
+1. In the Canvas assignment, replace the old assignment invitation URL and template repo link URLs with the new ones.
