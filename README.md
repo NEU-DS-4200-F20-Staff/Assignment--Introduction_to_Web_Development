@@ -2,7 +2,7 @@
 
 This repository is your starting point for the assignment and includes the instructions below. 
 
-Link to GitHub pages website: `[insert your hyperlink here]`
+Link to GitHub pages website: `[insert your clickable hyperlink here]`
 
 
 # Aim of the Assignment
@@ -104,7 +104,7 @@ Then work through the following sections, links, and steps:
         Then, you can visit a GitHub repository or GitHub Pages site and click the bookmark to swap.
 
     * Read [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-    *   Edit near the top of your README.md file to include a clickable hyperlink to the GitHub page website for your repo., replacing the `` `[insert your hyperlink here]` `` code with your markdown.
+    *   Edit near the top of your README.md file to include a clickable hyperlink to the GitHub page website for your repo., replacing the `` `[insert your clickable hyperlink here]` `` code with your markdown.
     
     **Commit and push your files to GitHub after this step.**
 
