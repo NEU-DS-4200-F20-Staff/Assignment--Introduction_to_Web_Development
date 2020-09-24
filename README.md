@@ -4,13 +4,11 @@ This repository is your starting point for the assignment and includes the instr
 
 Link to GitHub pages website: `[insert your clickable hyperlink here]`
 
-
 # Aim of the Assignment
 
 In this assignment you will work through several examples and resources on the Mozilla Developer Network (MDN) in order to learn the basics of web development and using HTML, CSS, JavaScript,  git, GitHub, and GitHub Pages. This will complement an in-class activity in Lecture 2 where we use these technologies.
 
 **_If you struggle a lot on this assignment or feel lost, seek additional web development training outside of class ASAP and come to office hours for help._** One goal of this assignment is to help you realize what you may need to learn. We will be doing some instruction in class but we expect that many of you will need to use tutorials and other outside resources to accomplish the upcoming assignments.
-
 
 # Instructions
 
@@ -114,12 +112,11 @@ Then work through the following sections, links, and steps:
 
 1. Read [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript).
 
-
 # Submission instructions
 
-1. Ensure you commit and push your files to GitHub at each step you're instructed to above **in bold**. The steps are: HTML Basics, CSS Basics, JavaScript Basics, Publishing your website.
+1. Ensure you commit all your local code and push it to your remote GitHub Classroom-generated repository at each step you're instructed to above **in bold**. The steps are: HTML Basics, CSS Basics, JavaScript Basics, Publishing your website.
 
-1. Submit the URL of **your GitHub Classroom-generated repository** to the associated assignment on Canvas. **Do not submit a link to a personal repository. It must be within our class GitHub organization.** 
+1. Submit the URL of **your GitHub Classroom-generated repository** (not your GitHub Page) to the associated assignment on Canvas. **Do not submit a link to a personal repository. It must be within our class GitHub organization.** 
 
 # Further Reading for those interested
 
