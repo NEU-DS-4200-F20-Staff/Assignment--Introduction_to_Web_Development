@@ -4,7 +4,7 @@ This repository is your starting point for the assignment and includes the instr
 
 Link to GitHub pages website: `[insert your clickable hyperlink here]`
 
-# Aim of the Assignment
+# Aim of the assignment
 
 In this assignment you will work through several examples and resources on the Mozilla Developer Network (MDN) in order to learn the basics of web development and using HTML, CSS, JavaScript,  git, GitHub, and GitHub Pages. This will complement an in-class activity in Lecture 2 where we use these technologies.
 
@@ -118,12 +118,12 @@ Then work through the following sections, links, and steps:
 
 1. Submit the URL of **your GitHub Classroom-generated repository** (not your GitHub Page) to the associated assignment on Canvas. **Do not submit a link to a personal repository. It must be within our class GitHub organization.** 
 
-# Further Reading for those interested
+# Further reading for those interested
 
 [MDN Learning HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
 [MDN Learn to Style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
-# Assignment Setup (For Instructors Only)
+# Assignment setup (for instructors only)
 
 See https://github.com/NEU-DS-4200-F20-Staff/Assignment_Setup_Instructions.
