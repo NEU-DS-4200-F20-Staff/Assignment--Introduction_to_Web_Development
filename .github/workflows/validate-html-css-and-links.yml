@@ -12,7 +12,7 @@ jobs:
         name: "Run link checker"
         uses: peter-evans/link-checker@v1.2.0
         with: 
-          args: "index.html README.md -x ^https?:\\/\\/(github.com\\/NEU-(CS|DS)-\\d{4}-[SF]\\d{2}\\/)|(localhost|127.0.0.1|::1):\\d+"
+          args: "index.html README.md -x (?i)^https?:\\/\\/(github.com\\/NEU-(CS|DS)-\\d{4}-[SF]\\d{2}\\/)|(localhost|127.0.0.1|::1):\\d+"
       -       
         name: "Fail and print if there were link errors"
         run: "test -f link-checker/out.md && cat link-checker/out.md; exit ${{ steps.lc.outputs.exit_code }}"
